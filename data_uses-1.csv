@@ -1,0 +1,15 @@
+privacy_key,name,parent_key,description
+data_use,Data Use,,
+업무절차,0,data_use,"Provide, give, or make available the product, service, application or system."
+업무절차.건설사업관리기술인,1,업무절차,"The source system, product, service or application being provided to the user."
+업무절차.건설사업관리기술인.공사일반,2,업무절차.건설사업관리기술인,Use of specified data categories to operate and protect the system in order to provide the service.
+업무절차.공사감독자,,업무절차,
+업무절차.공사감독자.공사일반,,업무절차.공사감독자,
+작성방법및사례,,data_use,
+작성방법및사례.시공상세도,,작성방법및사례,
+작성방법및사례.시공상세도.작성방법,,작성방법및사례.시공상세도,
+작성방법및사례.공사시방서,,작성방법및사례,
+작성방법및사례.공사시방서.표준시방서,,작성방법및사례.공사시방서,
+작성방법및사례.공사시방서.전문시방서,,작성방법및사례.공사시방서,
+작성방법및사례.공사시방서.전문시방서.도로공사,,작성방법및사례.공사시방서.전문시방서,
+작성방법및사례.공사시방서.전문시방서.LH,,작성방법및사례.공사시방서.전문시방서,
