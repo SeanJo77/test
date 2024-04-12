@@ -1,0 +1,5 @@
+privacy_key,name,parent_key,description
+data_use,Data Use,,
+업무절차,0,data_use,"Provide, give, or make available the product, service, application or system."
+업무절차.건설사업관리기술인,1,업무절차,"The source system, product, service or application being provided to the user."
+업무절차.건설사업관리기술인.공사일반,2,업무절차.건설사업관리기술인,Use of specified data categories to operate and protect the system in order to provide the service.
